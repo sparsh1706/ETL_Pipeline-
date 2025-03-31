@@ -1,4 +1,4 @@
-# Team 16 Data Management Project Impact of Wildfires on Air Pollution Levels
+# UCLA MSBA Data Management Project - Impact of Wildfires on Air Pollution Levels
 
 This project processes data using PySpark and DuckDB to generate aggregated CSV files for visualization in Tableau. It involves the following main steps:
 
